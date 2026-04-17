@@ -1,8 +1,10 @@
 Hola a todos
 
-Adios a todos
+Adios a todos del curso
 
 Estamos trabajando en un Proyecto COBOL.
 
 Y aprendiendo sobre Git y GitHub.
+
+Practicando sobre los commandos de Git.
 
