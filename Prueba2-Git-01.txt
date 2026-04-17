@@ -1,4 +1,8 @@
 Hola a todos
 
-
 Adios a todos
+
+Estamos trabajando en un Proyecto COBOL.
+
+Y aprendiendo sobre Git y GitHub.
+
