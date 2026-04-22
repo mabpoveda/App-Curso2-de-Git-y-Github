@@ -8,4 +8,10 @@ Y aprendiendo sobre Git y GitHub.
 
 Practicando sobre los commandos de Git.
 
+<<<<<<< HEAD
 Pruebas en la rama master
+=======
+Adicionamos una rama appBar.
+
+Cambios en la rama appBar
+>>>>>>> appBar
